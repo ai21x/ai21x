@@ -1,7 +1,5 @@
 # Ari
 
-### [For Chinese Version: 中文说明](./README_CN.md)
-
 ## Features
 
 -   🛠 Full-featured Discord, Twitter and Telegram connectors
